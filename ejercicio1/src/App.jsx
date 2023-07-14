@@ -1,9 +1,9 @@
 import React from 'react';
+import DosAtributos from './components/dosAtributos';
 function App() {
   return (
     <div>
-      <h1>Hola Mundo!</h1>
-      <p>Bienvenidos a los primeros pasos con React</p>
+      <DosAtributos />
     </div>
   );
 }
