@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+.card {
+  display: flex;
+  margin: 1rem;
+  border-radius: 1px;
+
+}
+.bottons {
+  display: flex;
+  justify-content: center;
+  margin: 3rem;
+}
